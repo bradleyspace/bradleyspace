@@ -1,4 +1,4 @@
-<h1 style="align-text: center;">Hi, I'm Bradley</h1>
+<h1 align="center">Hi, I'm Bradley</h1>
 
 <!--
 **bradleyspace/bradleyspace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
