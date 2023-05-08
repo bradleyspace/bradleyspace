@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Bradley</h1>
 
-<img align="center" src="logo.png" />
-
+<p align="center">
+<img src="logo.png" />
+</p>
 <!--
 **bradleyspace/bradleyspace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
