@@ -1,21 +1,51 @@
 <div align="center">
-    <img src="logo.svg" style="height: auto; width: 30vh;"/>   
+  <img height="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp9667360.jpg&f=1&nofb=1&ipt=153ee7895943f7b116934bbbea0ae3fe4712a76d543f3634d1a353161bf2b2b7&ipo=images"  />
 </div>
+
+###
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/bradley-holmes-42811321b/"> <img src="https://camo.githubusercontent.com/e1af73c826c94356f8b6e9aa49e10afcfa0e29742cb5966ca48b3541f8655463/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3041363643322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d4c696e6b6564496e266c6f676f436f6c6f723d7768697465" /></a>
-    <a href=""></a>
+  <a href="https://www.linkedin.com/in/bradley-holmes-42811321b/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
 </div>
 
-👋 Hi, I'm Bradley!<br/>
-💻 A self-taught software developer. <br/>
-👤 I am currently a Software Engineer Apprentice <br />
-❤️ I love embedded development, and usually work on robotics.
+###
 
-<div align="center">
-    <img src="https://camo.githubusercontent.com/bf46ff8e537fbd833ee3cbb9838e50295f7377fe92c706064657684c91a6cd2f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4573707265737369662d4537333532432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d457370726573736966266c6f676f436f6c6f723d7768697465" />
-    <img src="https://camo.githubusercontent.com/0f19d9f44bc4250224a5c758ce1fcc61c84b21107ab4bb232ebd179e162e65f0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41726475696e6f2d3030393739442e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d41726475696e6f266c6f676f436f6c6f723d7768697465" />
-    <img src="https://camo.githubusercontent.com/d8e966307156d0ac92e190b354d0e4d03a83d16cefec05d851a9ac76686570a6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432b2b2d3030353939432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d432b2b266c6f676f436f6c6f723d7768697465" />
-    <img src="https://camo.githubusercontent.com/2e06bcd730098de47f44d5fa16744fe933e6b7b1676480371241e363b589c955/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641422e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d507974686f6e266c6f676f436f6c6f723d7768697465" />
-    <img src="https://camo.githubusercontent.com/989317bcbebdcab452e67c1de9e1cb64a48cf3124a6c596ab05d3158c45bc63a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3333393933332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f6465646f746a73266c6f676f436f6c6f723d7768697465"
+<h1 align="center">hey there 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">My names Bradley. I'm from the United Kingdom<br><br>- 🔭 I’m currently completing a Level 4 Apprenticeship in DevOps Engineering and Software Development<br>- 📚 I'm currently learning all about Card Printers and RFID/NFC Technology<br>- ⚡ In my free time I love to build on embedded hardware using C++ and C#</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
